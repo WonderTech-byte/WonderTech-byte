@@ -37,11 +37,9 @@ I'm a passionate backend developer specializing in **Java/Spring Boot** ecosyste
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=WonderTech-byte&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://streak-stats.demolab.com/?user=WonderTech-byte&theme=radical&hide_border=false) |
-|:---:|:---:|
-
-| ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=WonderTech-byte&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-|:---:|
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=WonderTech-byte&theme=radical&hide_border=false&include_all_commits=true&count_private=true&width=400&height=200)
+![GitHub Streak](https://streak-stats.demolab.com/?user=WonderTech-byte&theme=radical&hide_border=false&width=400&height=200)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=WonderTech-byte&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&width=400)
 
 </div>
 
